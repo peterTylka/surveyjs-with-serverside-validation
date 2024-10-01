@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "jquery": "latest",
+    "survey-core": "latest",
+    "survey-js-ui": "latest"
+  }
+}
